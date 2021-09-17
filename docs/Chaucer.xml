@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Knight's Tale: an electronic version of a Manuscript</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published as a practice exercise for Intro to Digital Humanities Course (DH 5100) at Vanderbilt University</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from the Ellesmere Manuscript of Chaucer's Caterbury Tales</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <lg> 
+            <l>Here bigenneth the Knightes tale</l>
+         </lg>
+         <lg>
+            <figure> 
+               <figDesc>Depiction of a man on horseback</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Stylized W</figDesc>
+            </figure>
+            <l>Whom as olde stories tellen us</l>
+            <l>ther was a duc pt highte <persName>Theseus</persName></l>
+            <l>Of <placeName>Atthenes</placeName> he was lord and goùnour</l>
+            <l>and in his tyme such a conquerour</l>
+            <l>That gretter was ther noon under the sonne</l>
+            <l>fful many a riche contree hadde he wonne</l>
+            <l>What with his wysdom and his chivalrie</l>
+            <l>He conquered al the regne of <placeName>ffemenye</placeName></l>
+            <l>That bhuom was ycfeped <placeName>Scithia</placeName></l>
+            <l>and wedded the quenne  <persName>ypolita</persName></l>
+            <l>and bioghte bur hoom wt hym ui his contree</l>
+            <l>with mucher glorie and greet solemnitee</l>
+            <l>and eek hir faue sufter <persName>Emelye</persName></l>
+            <l>and thus with victorie and with melodie</l>
+            <l>Lete I this noble duc <placeName>Atthenes</placeName> ryde</l>
+            <l>And al his hoost in armes hym bisyde</l>
+            <l>And certes, if it nere to long to heere</l>
+            <l>I wolde have toold yow fully the manere</l>
+            <l>How wonnen was the regne of <placeName>ffemenye</placeName></l>
+            <l>By <persName>Theseus</persName> and by his chivalrye</l>
+            <l>And of the grete bataille for the nones</l>
+            <l>Bitwixen <placeName>Atthenes</placeName> and <placeName>Amazones</placeName></l>
+            <l>And how asseged was <persName>Ypolita</persName></l>
+            <l>The faire hardy queene of <placeName>Scithia</placeName></l>
+            <l>And of the feste pt was at hir weddynge</l>
+            <l>And of the tempest at hir hoom-comynge</l>
+            <l>But al that thyng I moot as now forbere</l>
+            <l>I have God woot a large feeld to ere</l>
+            <l>And wayke been the oxen in my plough</l>
+            <l>The remenant of the tale is long ynough</l>
+            <l>I wol nat letten eek noon of this route</l>
+            <l>Cat enemy felarke telld his tale aboute</l>
+            <l>and cat de now who shal the soper wynne</l>
+            <l>And ther I lefte I wol ayeyn bigynne</l>
+          <figure>
+             <figDesc>Stylized T</figDesc>
+          </figure>  
+            <l>This duc of whom I make mencioun</l>
+            <l>Whan he was come almoost un to the toun</l>
+            <l>In al his wele and in his mooste pride</l>
+            <l>He was war as he caste his eye aside</l>
+            <l>Where that ther kneled in the weye</l>
+            <l>A compaignye of ladyes tweye and tweye</l>
+         </lg>
+      </body>
+  </text>
+</TEI>
